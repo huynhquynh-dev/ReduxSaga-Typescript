@@ -53,6 +53,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 [Prettier Config Format Code](https://prettier.io/playground/)
 
+[DOC Typescriptlang](https://www.typescriptlang.org/)
+
 ## Install
 
 ```javascript
