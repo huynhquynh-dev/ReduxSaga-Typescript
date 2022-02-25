@@ -55,6 +55,14 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 [DOC Typescriptlang](https://www.typescriptlang.org/)
 
+[https://redux-toolkit.js.org/api/getDefaultMiddleware](https://redux-toolkit.js.org/api/getDefaultMiddleware)
+
+[https://redux-toolkit.js.org/api/immutabilityMiddleware](https://redux-toolkit.js.org/api/immutabilityMiddleware)
+
+[https://redux-toolkit.js.org/api/serializabilityMiddleware](https://redux-toolkit.js.org/api/serializabilityMiddleware)
+
+[GettingStarted redux-saga](https://redux-saga.js.org/docs/introduction/GettingStarted/)
+
 ## Install
 
 ```javascript
